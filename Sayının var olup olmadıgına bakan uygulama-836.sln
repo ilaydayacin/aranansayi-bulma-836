@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sayının var olup olmadıgına bakan uygulama-836", "Sayının var olup olmadıgına bakan uygulama-836\Sayının var olup olmadıgına bakan uygulama-836.csproj", "{D032D6B1-EAB6-441F-BF3D-3421ABC6121A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D032D6B1-EAB6-441F-BF3D-3421ABC6121A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D032D6B1-EAB6-441F-BF3D-3421ABC6121A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D032D6B1-EAB6-441F-BF3D-3421ABC6121A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D032D6B1-EAB6-441F-BF3D-3421ABC6121A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4D276FFB-D178-4919-B1B0-D4981473F11E}
+	EndGlobalSection
+EndGlobal
